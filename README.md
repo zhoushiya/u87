@@ -6,7 +6,7 @@ U87模板由 [**龙城男人**](https://u87.cc) 基于[**朱纯树**](https://gi
 
 0、首先安装 **Super-Forum** [https://www.runpod.cn/docs/1/1.html](https://www.runpod.cn/docs/1/1.html) 。
 
-1、压缩包传到superforum根目录，解压。
+1、压缩包传到superforum 下 app 目录，解压。
 
 2、到后台组件管理，启动U87插件，并“**对已启动插件进行数据迁移**”
 
