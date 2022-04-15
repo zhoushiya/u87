@@ -81,7 +81,7 @@ class ApiController
 		return Json_Api(200,true,['msg'=>'已收藏']);
 	}
 	// 一键清空未读通知
-	#[PostMapping(path:"/api/user/notice.allread")]
+	#[RouteRewrite(route:"/api/user/notice.allread",method:"POST")]
 	public function notice_allread(): array
 	{
 	    if(!auth()->check()){
