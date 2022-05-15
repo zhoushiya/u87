@@ -15,8 +15,6 @@ U87模板由 [**龙城男人**](https://u87.cc) 基于[**朱纯树**](https://gi
 4、刷新网站，应该已经启用了U87模板了。
 
 
-演示地址: [**U87.CC**](https://u87.cc)
-
 ![uploadtopic20220515251652624959mTJzYCvVcm.jpeg](https://www.runpod.cn/upload/topic/202205/15/25_1652624959_mTJzYCvVcm.jpeg)
 ![uploadtopic202205152516526249574QdXXN26Fu.jpeg](https://www.runpod.cn/upload/topic/202205/15/25_1652624957_4QdXXN26Fu.jpeg)
 ![uploadtopic20220515251652624958QtuERmezKL.jpeg](https://www.runpod.cn/upload/topic/202205/15/25_1652624958_QtuERmezKL.jpeg)
